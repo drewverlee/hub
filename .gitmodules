@@ -4,6 +4,3 @@
 [submodule "booze"]
 	path = stew
 	url = git@github.com:drewverlee/booze.git
-[submodule "booz"]
-	path = booz
-	url = git@github.com:drewverlee/booz.git
